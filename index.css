@@ -1,0 +1,25 @@
+.carousel-caption{
+    bottom: 150px;
+}
+
+.carousel-item{
+    height: 550px;
+}
+
+
+.parallax{
+    background-image: url(./images/istockphoto-542791074-612x612.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-black{
+    color: #c9c7c7 !important;
+}
+
+.rounded-circle{
+    border: dotted !important;
+}
